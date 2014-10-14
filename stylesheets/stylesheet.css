@@ -232,9 +232,9 @@ hr {
 }
 
 table {
-  border: 1px solid #373737;
-  margin-bottom: 20px;
-  text-align: left;
+  border: 0px solid #373737;
+  /*margin-bottom: 20px;*/
+  text-align: center;
  }
 
 th {
